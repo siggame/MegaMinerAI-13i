@@ -1,6 +1,4 @@
-Egg
+MegaMiner13i: Replicant Rivalry!!
 ===
 
-Egg is a shell MegaMiner repository.
-
-It contains utility scripts to initialize a MegaMiner repository and perform common operations.
+A port of Droids to our new framework.
